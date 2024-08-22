@@ -2,5 +2,5 @@
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/AksiSpirit/cf-warp
-//last update on: 2024-08-21 12:27:01
-warp://188.114.98.138:1070?ifp=10-20&ifps=20-60&ifpd=5-10#WARP-ONE&&detour=warp://188.114.97.133:891?ifp=10-20&ifps=20-60&ifpd=5-10#WARP-TWO
+//last update on: 2024-08-22 01:05:46
+warp://162.159.195.227:859?ifp=10-20&ifps=20-60&ifpd=5-10#WARP-ONE&&detour=warp://188.114.97.168:908?ifp=10-20&ifps=20-60&ifpd=5-10#WARP-TWO
